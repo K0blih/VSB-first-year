@@ -8,3 +8,13 @@ UPR/project/build/*
 UPR/ukol10/build/*
 image.tga
 output.tga
+
+# Visual Studio and build artifacts
+.vs/
+*.user
+*.suo
+**/bin/
+**/obj/
+**/x64/
+**/Debug/
+**/Release/
